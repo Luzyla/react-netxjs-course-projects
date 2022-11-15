@@ -1,0 +1,7 @@
+{
+    "prettier.bracketSameLine": false,
+    "prettier.jsxSingleQuote": true,
+    "prettier.useTabs": false,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "prettier.bracketSpacing": false
+}
